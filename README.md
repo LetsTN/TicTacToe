@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/LetsTN/TicTacToe">
-    <img src="src/assets/logo.PNG" alt="banner" style="width:50px;height:50px;" >
+    <img src="src/assets/logo.PNG" alt="banner" style="{width:50px;height:50px;}" >
   </a>
 
   <h3 align="center">Tic Tac Toe</h3>
